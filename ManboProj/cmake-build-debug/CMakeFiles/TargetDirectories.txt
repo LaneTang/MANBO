@@ -1,0 +1,3 @@
+D:/Project/MANBO/ManboProj/cmake-build-debug/CMakeFiles/ManBoProj.elf.dir
+D:/Project/MANBO/ManboProj/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Project/MANBO/ManboProj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
