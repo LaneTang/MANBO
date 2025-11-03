@@ -1,0 +1,20 @@
+# 工具链隔离
+toolchain.cmake
+
+# 编译产物目录（根据你的实际目录名调整）
+ManboProj/build_tang/
+ManboProj/build_lan/
+
+# Clion IDE的缓存文件（包含本地路径配置，不跨环境）
+ManboProj/.idea/
+ManboProj/cmake-build-*/
+ManboProj/*.cmake.user
+ManboProj/*.iws
+
+# 临时文件
+*.o
+*.elf
+*.hex
+*.bin
+*.d
+*.map
